@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import pandas as pd
 import csv
-from scipy.fft import dst
 import scipy.io as sio
 from glob import glob as gg
 import matplotlib.pyplot as plt
